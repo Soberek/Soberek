@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Soberek
-- 🌱 I’m currently learning Node.JS
+- 🌱 Frontend kinda boring, so i want to become Node.JS dev.
 
 

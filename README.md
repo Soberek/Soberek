@@ -1,20 +1,26 @@
-- 👋 Hi, I’m @Soberek
+# 👋 Hello, I'm Krzysztof
 
-# 👋 Hello, I'm [Your Name]
-
-## 👨‍💻 Full Stack Developer | JavaScript Enthusiast
+## 👨‍💻 Frontend Developer | Typescript Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about building web applications and constantly learning new technologies. Here's a glimpse of what I work with:
 
 ### 🚀 Technologies & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<div align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+
 </div>
 
 ### 💡 What I Do
@@ -22,22 +28,23 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 - 🌐 Develop responsive and interactive web applications
 - ⚛️ Create efficient and reusable React components
 - 🖥️ Build server-side rendered applications with Next.js
-- 🚀 Design and implement RESTful APIs using Node.js
+- 🚀 Design and implement RESTful APIs using Node.js and Express.js
 - 🗄️ Work with MongoDB for flexible and scalable data storage
+- 🎨 Craft beautiful and accessible UIs with Chakra UI
+- 🧪 Write and maintain unit tests using Jest
+- 🔧 Build robust backend services with Express.js
 
 ### 🌱 Currently Learning
 
 I'm always expanding my skillset. Currently, I'm focusing on:
 
-- 📊 Data visualization with D3.js
-- 🧪 Testing frameworks like Jest and React Testing Library
-- 🚀 Serverless architectures and cloud computing
+- 📊 NextJS advanced
+- 🔐 Advanced authentication and authorization techniques
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](Your LinkedIn URL)
-- 🐦 [Twitter](Your Twitter URL)
-- 🌐 [Personal Website/Portfolio](Your Website URL)
+- 💼 [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/krzysztof-palpuchowski-711680216/))
+
 
 ### 📊 GitHub Stats
 

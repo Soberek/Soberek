@@ -43,7 +43,7 @@ I'm always expanding my skillset. Currently, I'm focusing on:
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/krzysztof-palpuchowski-711680216/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-palpuchowski-711680216/)
 
 
 ### 📊 GitHub Stats

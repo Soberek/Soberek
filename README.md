@@ -40,6 +40,7 @@ I'm always expanding my skillset. Currently, I'm focusing on:
 
 - 📊 NextJS advanced
 - 🔐 Advanced authentication and authorization techniques
+- ⚙️ Optimizing React apps (React.memo(), useCallback())
 
 ### 📫 Let's Connect
 

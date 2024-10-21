@@ -38,9 +38,8 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 I'm always expanding my skillset. Currently, I'm focusing on:
 
-- 📊 NextJS advanced
 - 🔐 Advanced authentication and authorization techniques
-- ⚙️ Optimizing React apps (React.memo(), useCallback())
+- ⚙️ Optimizing React apps (React.memo(), useCallback(), code-splitting, lazy loading)
 
 ### 📫 Let's Connect
 

@@ -27,10 +27,9 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 
 - 🌐 Develop responsive and interactive web applications
 - ⚛️ Create efficient and reusable React components
-- 🖥️ Build server-side rendered applications with Next.js
 - 🚀 Design and implement RESTful APIs using Node.js and Express.js
 - 🗄️ Work with MongoDB for flexible and scalable data storage
-- 🎨 Craft beautiful and accessible UIs with Chakra UI
+- 🎨 Craft beautiful and accessible UIs with MaterialUI
 - 🧪 Write and maintain unit tests using Jest
 - 🔧 Build robust backend services with Express.js
 

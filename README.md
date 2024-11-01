@@ -45,10 +45,4 @@ I'm always expanding my skillset. Currently, I'm focusing on:
 - 💼 [LinkedIn](https://www.linkedin.com/in/krzysztof-palpuchowski-711680216/)
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soberek&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!

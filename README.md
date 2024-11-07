@@ -40,8 +40,12 @@ Welcome to my GitHub profile! I'm passionate about building web applications and
 - 🚀 Design and implement RESTful APIs using Node.js and Express.js
 - 🗄️ Work with MongoDB for flexible and scalable data storage
 - 🎨 Craft beautiful and accessible UIs with MaterialUI
+- 📝 Build robust form validation using Formik and Yup schema validation
+- ⚡ Optimize React applications using:
+  - useMemo for expensive computations
+  - useCallback for stable function references
+  - React.memo() for preventing unnecessary re-renders
 - 🧪 Write and maintain unit tests using Jest
-- 🔧 Build robust backend services with Express.js
 
 ### 🌱 Currently Learning
 

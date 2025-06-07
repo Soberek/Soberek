@@ -52,7 +52,6 @@ Welcome to my GitHub profile! I'm passionate about building efficient and scalab
 I'm always expanding my skillset. Currently, I'm focusing on:
 
 - 🏢 Advanced system design principles and architectural patterns.
-- 🔗 Building microservices with message queues like RabbitMQ and Kafka.
 - 📈 Database optimization and query performance tuning.
 - ⚡ Caching strategies for improved backend performance.
 

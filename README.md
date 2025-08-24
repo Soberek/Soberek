@@ -38,5 +38,3 @@ Frontend Developer specializing in React and TypeScript. Passionate about buildi
     </td>
   </tr>
 </table>
-
-![Soberek GitHub stats](https://github-readme-stats.vercel.app/api?username=Soberek&show_icons=true&theme=radical&show=prs_merged,&hide=contribs,issues,stars&hide_rank=true)
